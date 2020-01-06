@@ -9,5 +9,6 @@ the first pic is the latest update
 
 list the parts of historical
 
-[back](../)
+[back](Textiles/sewing.md)
+
 [pocket](Textiles/Sewing/Historical/pocket.md)
